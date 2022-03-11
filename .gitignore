@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SimpleDotNetFourEightWebApi/bin
+/SimpleDotNetFourEightWebApi/obj
+/SimpleDotNetFourEightWebApi/packages
+/SimpleDotNetFourEightWebApi/SimpleDotNetFourEightWebApi.csproj.user
+/SimpleDotNetFourEightWebApi/.vs/SimpleDotNetFourEightWebApi/v17
+/.vs
+/SimpleDotNetFourEightWebApi/.vs/SimpleDotNetFourEightWebApi
